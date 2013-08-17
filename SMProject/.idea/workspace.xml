@@ -21,8 +21,9 @@
     <file path="/Dummy.txt" changelist="cb0953ba-ac0f-4900-bc90-15a1999e4f61" time="1376715131787" ignored="false" />
     <file path="/AndroidManifest.xml" changelist="cb0953ba-ac0f-4900-bc90-15a1999e4f61" time="1376715904489" ignored="false" />
     <file path="/strings.xml" changelist="cb0953ba-ac0f-4900-bc90-15a1999e4f61" time="1376715923152" ignored="false" />
-    <file path="/agregar_articulo.java" changelist="cb0953ba-ac0f-4900-bc90-15a1999e4f61" time="1376716052658" ignored="false" />
+    <file path="/agregar_articulo.java" changelist="cb0953ba-ac0f-4900-bc90-15a1999e4f61" time="1376718205603" ignored="false" />
     <file path="/MainActivity.java" changelist="cb0953ba-ac0f-4900-bc90-15a1999e4f61" time="1376716277093" ignored="false" />
+    <file path="/AdminSQLiteOpenHelper.java" changelist="cb0953ba-ac0f-4900-bc90-15a1999e4f61" time="1376717736646" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,27 +96,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AdminSQLiteOpenHelper.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SM/src/main/java/com/example/sm/AdminSQLiteOpenHelper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="0" selection-start="843" selection-end="843" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="strings.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SM/src/main/res/values/strings.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="49" selection-start="580" selection-end="580" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="agregar_articulo.xml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="agregar_articulo.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SM/src/main/res/layout/agregar_articulo.xml">
           <provider selected="true" editor-type-id="android-designer">
             <state />
@@ -127,33 +108,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SM/src/main/AndroidManifest.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="44" column="36" selection-start="1581" selection-end="1581" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#407#425#0" expanded="true" />
-                <element signature="e#567#585#0" expanded="true" />
-                <element signature="e#902#921#0" expanded="true" />
-                <element signature="e#1239#1259#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ParametrosActivity.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SM/src/main/java/com/example/sm/ParametrosActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="13" selection-start="255" selection-end="255" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="agregar_articulo.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SM/src/main/java/com/example/sm/agregar_articulo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="5" selection-start="350" selection-end="350" vertical-scroll-proportion="0.0">
+            <state line="33" column="24" selection-start="1065" selection-end="1065" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -161,22 +119,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="activity1.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SM/src/main/java/com/example/sm/activity1.java">
+      <file leaf-file-name="AdminSQLiteOpenHelper.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SM/src/main/java/com/example/sm/AdminSQLiteOpenHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="64" selection-start="536" selection-end="536" vertical-scroll-proportion="0.0">
+            <state line="23" column="96" selection-start="1064" selection-end="1064" vertical-scroll-proportion="0.0">
               <folding>
-                <element signature="e#1026#1141#0" expanded="true" />
-                <element signature="e#1130#1131#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainActivity.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="MainActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SM/src/main/java/com/example/sm/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="69" column="71" selection-start="2797" selection-end="2797" vertical-scroll-proportion="0.7583548">
+            <state line="69" column="71" selection-start="2797" selection-end="2797" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="e#1052#1567#0" expanded="true" />
                 <element signature="e#1556#1557#0" expanded="true" />
@@ -197,18 +154,19 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/SM/src/main/java/com/example/sm/AdminSQLiteOpenHelper.java" />
-        <option value="$PROJECT_DIR$/SM/src/main/res/layout/agregar_articulo.xml" />
         <option value="$PROJECT_DIR$/SM/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/SM/src/main/res/values/strings.xml" />
-        <option value="$PROJECT_DIR$/SM/src/main/java/com/example/sm/agregar_articulo.java" />
         <option value="$PROJECT_DIR$/SM/src/main/res/layout/activity_main.xml" />
         <option value="$PROJECT_DIR$/SM/src/main/java/com/example/sm/MainActivity.java" />
+        <option value="$PROJECT_DIR$/SM/src/main/java/com/example/sm/AdminSQLiteOpenHelper.java" />
+        <option value="$PROJECT_DIR$/SM/src/main/java/com/example/sm/agregar_articulo.java" />
+        <option value="$PROJECT_DIR$/SM/src/main/res/layout/agregar_articulo.xml" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1296" />
     <option name="height" value="776" />
   </component>
@@ -487,33 +445,33 @@
       <workItem from="1376709219737" duration="48000" />
       <workItem from="1376709660653" duration="5000" />
       <workItem from="1376709729992" duration="79000" />
-      <workItem from="1376709879684" duration="2497000" />
+      <workItem from="1376709879684" duration="4389000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4946000" />
+    <option name="totallyTimeSpent" value="6838000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1296" height="776" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.6704362" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.6704362" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3298217" sideWeight="0.6704362" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3298217" sideWeight="0.6704362" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32956383" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959481" sideWeight="0.6704362" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959481" sideWeight="0.6704362" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32956383" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.6704362" order="4" side_tool="false" content_ui="tabs" />
@@ -625,54 +583,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SM/src/main/java/com/example/sm/AdminSQLiteOpenHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="0" selection-start="843" selection-end="843" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SM/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="49" selection-start="580" selection-end="580" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SM/src/main/java/com/example/sm/ParametrosActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="13" selection-start="255" selection-end="255" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SM/src/main/java/com/example/sm/activity1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="64" selection-start="536" selection-end="536" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#1026#1141#0" expanded="true" />
-            <element signature="e#1130#1131#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SM/src/main/java/com/example/sm/agregar_articulo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="5" selection-start="350" selection-end="350" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SM/src/main/res/layout/agregar_articulo.xml">
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -701,13 +614,58 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SM/src/main/java/com/example/sm/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="69" column="71" selection-start="2797" selection-end="2797" vertical-scroll-proportion="0.7583548">
+        <state line="69" column="71" selection-start="2797" selection-end="2797" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="e#1052#1567#0" expanded="true" />
             <element signature="e#1556#1557#0" expanded="true" />
             <element signature="e#2546#3068#0" expanded="true" />
             <element signature="e#3057#3058#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SM/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="49" selection-start="580" selection-end="580" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SM/src/main/java/com/example/sm/activity1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="64" selection-start="536" selection-end="536" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#1026#1141#0" expanded="true" />
+            <element signature="e#1130#1131#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SM/src/main/java/com/example/sm/AdminSQLiteOpenHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="96" selection-start="1064" selection-end="1064" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SM/src/main/java/com/example/sm/agregar_articulo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="24" selection-start="1065" selection-end="1065" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SM/src/main/res/layout/agregar_articulo.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>

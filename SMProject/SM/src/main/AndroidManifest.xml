@@ -40,6 +40,15 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-fi>
         </activity>
+        <activity
+                android:name=".agregar_articulo"
+                android:label="@string/add_articulo" >
+            <intent-fi>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-fi>
+        </activity>
     </application>
 
 </manifest>

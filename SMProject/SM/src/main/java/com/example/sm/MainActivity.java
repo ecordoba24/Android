@@ -23,6 +23,9 @@ public class MainActivity extends Activity {
         Button button1 = (Button) findViewById(R.id.button1);
         Button button2 = (Button) findViewById(R.id.button2);
 
+        //Agregar Articulo
+        Button button3 = (Button) findViewById(R.id.button3);
+
         // Fijamos un evento onclick para el button1, cada vez que
         // lo pulsemos se llamará a este método (que abrirá una actividad)
         button1.setOnClickListener(new OnClickListener() {
@@ -57,6 +60,22 @@ public class MainActivity extends Activity {
                 startActivityForResult(intent, REQUEST_CODE);
             }
         });
+
+        //Agregar Articulo
+        button3.setOnClickListener(new OnClickListener() {
+            public void onClick(View v) {
+
+                //Intent intent = new Intent(MainActivity.this, activity1.class);
+                Intent intent;
+                intent = new Intent(MainActivity.this, agregar_articulo.class);
+                TextView txtCambiado = (TextView)findViewById(R.id.textView1);
+                txtCambiado.setText("Cambiado desde Android");
+                intent.putExtra("extra_text", "prueba");
+                startActivity(intent);
+
+            }
+        });
+
     }
 
     /*

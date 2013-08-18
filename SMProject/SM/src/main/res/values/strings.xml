@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name" >My Application
+    <string name="app_name" >SM
     </string>
     <string name="action_settings" >Settings
     </string>
@@ -22,5 +22,8 @@
     </string>
     <string name="add_articulo" >Agregar Articulo
     </string>
+    <string name="lista_articulos" >Lista de Articulo
+    </string>
+
 
 </resources>

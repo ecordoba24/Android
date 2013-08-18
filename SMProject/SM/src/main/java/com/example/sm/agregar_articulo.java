@@ -5,6 +5,7 @@ import android.content.ContentValues;
 import android.database.sqlite.SQLiteDatabase;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
@@ -24,6 +25,16 @@ public class agregar_articulo extends Activity {
         et2 = (EditText) findViewById(R.id.editText2);
         et3 = (EditText) findViewById(R.id.editText3);
         et4 = (EditText) findViewById(R.id.editText4);
+
+        //Salir del activity
+        Button salir = (Button) findViewById(R.id.salir);
+
+        // Evento onclick del botón, cuando se pulse, cerramos la actividad
+        salir.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                finish();
+            }
+        });
     }
 
     public void guardar(View v) {
